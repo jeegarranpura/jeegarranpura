@@ -32,6 +32,4 @@ I'm a passionate **Full Stack JavaScript Developer** with expertise in building 
 ## 📫 Let's Connect!  
 💼 [LinkedIn](https://in.linkedin.com/in/jeegar-ranpura-391392172) | 📧 [Email](mailto:jigar.ranpura99@gmail.com)  
 
----  
-
-This version enhances readability, adds emojis for engagement, and improves structure. Let me know if you'd like any tweaks! 🚀
+-----------------
