@@ -21,7 +21,7 @@ I'm a passionate **Full Stack JavaScript Developer** with expertise in building 
 - Experienced with **Next.js**, leveraging **server-side rendering (SSR)** and **static site generation (SSG)** for enhanced performance and SEO.  
 
 ### 🗄️ Databases  
-- Proficient in **NoSQL (MongoDB)** and **SQL (PostgreSQL)** databases.  
+- Proficient in **NoSQL (MongoDB)** and **SQL** databases.  
 - Experienced in designing **efficient schemas** and writing optimized queries.  
 
 ## 🎯 My Approach  
