@@ -30,7 +30,7 @@ I'm a passionate **Full Stack JavaScript Developer** with expertise in building 
 ✔️ Collaborating in **agile teams** to build impactful digital solutions.  
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://in.linkedin.com/in/jeegar-ranpura-391392172) | 📧 [Email](jigar.ranpura99@gmail.com)  
+💼 [LinkedIn](https://in.linkedin.com/in/jeegar-ranpura-391392172) | 📧 [Email](mailto:jigar.ranpura99@gmail.com)  
 
 ---  
 
