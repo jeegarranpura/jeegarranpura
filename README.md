@@ -1,7 +1,7 @@
 
 # 🚀 Full Stack JavaScript Developer  
 
-### 👋 Hi there! I'm [Your Name]  
+### 👋 Hi there! I'm Jeegar Ranpura  
 
 I'm a passionate **Full Stack JavaScript Developer** with expertise in building scalable, high-performance web applications. I specialize in **React, Node.js, and Next.js**, crafting seamless digital experiences from front to back.  
 
